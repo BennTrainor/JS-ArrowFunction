@@ -44,6 +44,7 @@ const returnMultipleLines = () => (
 console.log(returnMultipleLines());
 
 //Arrow Function Challenge
+//Use following data to return an average mark of a subject using an arrow function
 
 let students = [
     {
